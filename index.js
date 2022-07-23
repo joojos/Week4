@@ -41,7 +41,6 @@ function add(a,b){
  
  function divide(a,b){
     if(b==0){
-        console.log('here!')
         divideResult = "Nope!";
      }else{
         divideResult = a/b;
